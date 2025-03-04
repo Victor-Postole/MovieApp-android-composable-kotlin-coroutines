@@ -28,6 +28,14 @@ API → Retrofit (can be replaced by Ktor)
 Dependency Injection → Dagger and Hilt (can be replaced with Koin to reduce boilerplate annotations)
 Testing → Mockito
 
+How to use?
+Create your config.properties to local project and add these two:
+
+API_KEY = //your movie api key
+YOUTUBE_API_KEY = //your youtube api key
+
+
+
 ![Screenshot_20250304_143050](https://github.com/user-attachments/assets/e796e936-5ef2-4ae3-ab51-f6febf2ddd5c)
 ![Screenshot_20250304_143135](https://github.com/user-attachments/assets/a35df43e-e61e-4d40-a260-88746dda45ac)
 ![Screenshot_20250304_143122](https://github.com/user-attachments/assets/438f8c77-9b09-4300-9184-5034e5e5ce24)
