@@ -12,6 +12,4 @@
 /captures
 .externalNativeBuild
 .cxx
-local.properties
-/config.properties
-
+/local.properties
